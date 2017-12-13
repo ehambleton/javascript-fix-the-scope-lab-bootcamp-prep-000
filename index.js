@@ -34,4 +34,4 @@ return "FUNKY!"
 
 var Funk = funkyFunction()
 Funk()
-theFunk = Funk()
+theFunk = Funk
